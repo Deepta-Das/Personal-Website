@@ -15,7 +15,7 @@ h1 {
     color:#055052;
 }
 h3 {font-family: 'Open Sans', sans-serif;color:#141E61;margin:0 auto 0.64rem;}
-p {font-family: 'Dosis', sans-serif;color:#0F044C;line-height: 1.5;overflow: hidden;}
+p {font-family: 'Dosis', sans-serif;color:#0F044C;line-height: 1.5;font-weight:600;}
 ul {font-family: 'Dosis', sans-serif;color:#0F044C;}
 ol {font-family: 'Dosis', sans-serif;color:#0F044C;line-height: 1.5;}
 .top-cloud {
